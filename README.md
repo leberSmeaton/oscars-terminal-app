@@ -13,6 +13,7 @@ Oscars Judge Terminal App gives you the opportunity to be your own judge on the 
 
 <br/>[Git Hub Source Respository](https://github.com/leberSmeaton/portfolioT1A3)
 
+[](https://media.giphy.com/media/l0Exilgks3XFeHErK/giphy.gif)
 ![Michelle Obama annouces 'And the OScar goes to...' gif](https://media.giphy.com/media/l0Exilgks3XFeHErK/giphy.gif)
 <br/>
 <br/>
